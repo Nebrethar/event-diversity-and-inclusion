@@ -1,4 +1,10 @@
 {
-	"nebrethar": 0,
-	"nebrethar-bot-test": 0
+  {
+    "name": "nebrethar",
+    "count": 7
+  }
+  {
+    "name": "nebrethar-bot-test",
+    "count": 4
+  }
 }
