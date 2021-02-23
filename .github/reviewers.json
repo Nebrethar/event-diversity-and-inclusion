@@ -1,10 +1,11 @@
 {
-  {
-    "name": "nebrethar",
-    "count": 7
-  }
-  {
-    "name": "nebrethar-bot-test",
-    "count": 4
-  }
+	"reviewers": [{
+			"name": "nebrethar",
+			"count": 7
+		},
+		{
+			"name": "nebrethar-bot-test",
+			"count": 4
+		}
+	]
 }
